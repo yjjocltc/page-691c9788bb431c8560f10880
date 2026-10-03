@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1f80c4b2a052d4de30e83a85",
+  "owner": "yjjocltc",
+  "repo": "page-691c9788bb431c8560f10880",
+  "title": "极兔云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "691c9788bb431c8560f10880",
+      "a": "极兔云",
+      "b": "",
+      "entity": "极兔云",
+      "brand": "极兔云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "bfe2fa42e44717e59d044989eb23487b804771690750a5bff2e2b2ae91a35b27",
+      "content": {
+        "keyword1": "极兔云",
+        "keyword2": "",
+        "primary_entity": "极兔云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "极兔云提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，可在官网对比套餐并按步骤完成接入。",
+          "AI_DESCRIPTION": "极兔云提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，可在官网对比套餐并按步骤完成接入。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#f3f4f6;color:#1f2937;font-size:16px;line-height:1.75;word-wrap:break-word}img,svg{display:none}a{color:#5b21b6;text-decoration:none}a:hover{text-decoration:underline}header,main,footer{width:100%}header{background:#4c1d95;color:#f5f3ff;padding:12px 16px}header .brand{font-weight:700;font-size:1.15rem}nav{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:8px}nav a{color:#ede9fe;font-size:0.95rem}.wrap{max-width:960px;margin:0 auto;padding:20px 16px}h1{font-size:1.75rem;line-height:1.3;color:#4c1d95;margin:8px 0 12px}h2{font-size:1.35rem;color:#5b21b6;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:1.08rem;color:#4c1d95;margin:16px 0 8px}p{margin:0 0 12px}.lead{font-size:1.02rem;color:#374151}.note{background:#ede9fe;border-left:4px solid #7c3aed;padding:10px 12px;margin:12px 0;color:#1f2937}.cards{display:flex;flex-wrap:wrap;gap:12px;align-items:stretch}.card{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:16px;flex:1 1 260px;min-width:0}.card.featured{border:2px solid #7c3aed;background:#faf5ff;box-shadow:0 0 0 3px #ede9fe}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.4rem;font-weight:700;color:#5b21b6}.annual{color:#6b7280;font-size:0.92rem;margin-bottom:10px}.feat{padding-left:18px;margin:0}.feat li{margin:6px 0}.steps{counter-reset:step;list-style:none;padding:0;margin:0}.steps li{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:14px 14px 14px 54px;margin:0 0 10px;position:relative}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:12px;top:14px;width:28px;height:28px;border-radius:50%;background:#7c3aed;color:#fff;font-weight:700;text-align:center;line-height:28px;font-size:0.9rem}details{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:10px 12px;margin:0 0 8px}summary{font-weight:600;color:#4c1d95}details p{margin:8px 0 0;color:#374151}.grid2{display:flex;flex-wrap:wrap;gap:12px}.grid2>div{flex:1 1 280px;background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:14px}.adbox{background:#fff7ed;border:1px dashed #fdba74;border-radius:8px;padding:12px;margin:8px 0;color:#7c2d12}.friends a{display:inline-block;margin:0 10px 8px 0;padding:4px 8px;background:#fff;border:1px solid #ddd6fe;border-radius:6px;color:#5b21b6}footer{background:#111827;color:#d1d5db;padding:24px 16px;margin-top:24px}footer a{color:#c4b5fd}footer h2,footer h3{color:#ede9fe;border:0;margin-top:0}#sitemap ul{padding-left:18px}ul.plain{padding-left:18px;margin:0 0 12px}@media (max-width:640px){h1{font-size:1.5rem}.price{font-size:1.25rem}nav{gap:8px 12px}}</style><header><div class=\"wrap\"><div class=\"brand\">极兔云官网</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>极兔云</h1><p class=\"lead\" id=\"intro\">极兔云是面向个人创作者、留学办公与小型团队的网络加速品牌，提供机场订阅与多平台 VPN 接入。用户可在本官方网站了解套餐差异、节点能力与客户端下载方式，按纵向步骤完成订阅导入后即可使用梯子进行跨境访问、流媒体播放与游戏加速。</p><p>极兔云强调线路可用性与配置透明度：基础版覆盖日常浏览与轻量解锁，旗舰版强化原生流媒体与 IPLC 游戏优化，团队版面向多设备与定制路由。所有说明以套餐权益为准，下载与导入均在用户完成开通后于控制台获取订阅地址。</p><div class=\"note\">本页为极兔云官方网站信息页，用于说明加速器能力、机场订阅用法与客户端下载入口。请通过页面内锚点阅读套餐对比与操作说明，避免来路不明的配置文件。</div><h2 id=\"plans\">套餐对比</h2><p>按流量、同时在线设备与线路能力选择即可。年付按 10 个月计价，适合长期稳定使用。旗舰版是多数个人用户的默认选择。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>流量按出站计量，当月未用完不结转。设备数以同时在线隧道为准，超出后新连接将被拒绝直至有设备下线。流媒体解锁依赖目标站点策略，基础版覆盖常见地区内容库，旗舰版与团队版提供原生出口以降低校验失败。</p><h2 id=\"scenes\">使用场景</h2><div class=\"grid2\"><div><h3>跨境办公与资料检索</h3><p>访问文档站点、代码托管、学术数据库与会议系统时，可选用香港或新加坡节点降低握手失败。建议在客户端开启规则分流，仅对境外域名走加速，国内视频与支付保持直连。</p></div><div><h3>流媒体与内容创作</h3><p>旗舰版全节点原生解锁适合追剧、直播预览与素材下载。若遇到地区 ident 提示，切换同区域备用节点或关闭 IPv6 后再试。基础版适合偶尔观看，不保证全库片源。</p></div><div><h3>游戏与实时通话</h3><p>旗舰版 IPLC 专线针对对延迟敏感的对战与语音。请在客户端将游戏进程加入代理列表，并避开晚高峰拥塞节点。团队版可按工作室网段做分流模板。</p></div><div><h3>多设备家庭或小团队</h3><p>同一订阅可导入手机、电脑与路由器。注意套餐设备上限：基础版 3 台、旗舰版 5 台、团队版 20 台。路由器常驻会占用一个名额，请预留余量。</p></div></div><h2 id=\"guide\">操作说明</h2><p>按下列纵向步骤开通极兔云机场订阅。全过程无需第三方脚本，以官网控制台展示的订阅链接为准。</p><ol class=\"steps\"><li><h3>选择套餐并完成开通</h3><p>进入套餐对比后选定基础版、旗舰版或团队版。年付可降低月均成本。开通成功后账户会生成专属订阅与流量看板。</p></li><li><h3>复制机场订阅地址</h3><p>在控制台找到「订阅链接」。Clash / sing-box / Surge 等通用订阅通常为同一地址，部分客户端需要单独的 SIP008 或二维码格式，页面会并列提供。</p></li><li><h3>安装对应客户端</h3><p>Windows 与 macOS 可使用 Clash Meta 内核图形客户端或 sing-box；Android 使用兼容 Clash 的应用；iOS 使用 Shadowrocket、Quantumult X 或 Surge。路由器可写入 OpenWrt 兼容的订阅转换结果。详见<a href=\"#download\">客户端下载</a>。</p></li><li><h3>导入订阅并更新节点</h3><p>将链接粘贴到客户端的订阅栏，执行一次更新。若提示 TLS 或证书错误，检查系统时间是否准确。导入后应看到分区节点：普通、流媒体、游戏等。</p></li><li><h3>选择节点并开启系统代理</h3><p>日常浏览选延迟较低的香港或日本节点；流媒体选标注原生的区域节点；对战游戏选 IPLC。开启 TUN 或系统代理后，用浏览器访问国际站点验证。完成后可随时在客户端断开。</p></li></ol><div class=\"note\">若更新订阅后节点为空，多半是链接被截断或套餐未生效。回到官网控制台重新复制完整 URL，不要经即时通讯软件转发时插入空格。</div><h2 id=\"download\">客户端下载与官方接入</h2><p>极兔云不捆绑闭源安装包，官方下载指引如下。请从各客户端项目或应用商店获取正版，再导入本站订阅。下列名称仅作接入说明，具体版本以你设备系统为准。</p><div class=\"grid2\"><div><h3>桌面端</h3><ul class=\"plain\"><li>Windows：Clash Meta 图形前端、sing-box 图形版</li><li>macOS：Clash Verge 类客户端、Surge for Mac</li><li>导入后开启系统代理或 TUN 模式</li></ul></div><div><h3>移动端</h3><ul class=\"plain\"><li>Android：兼容 Clash / Meta 的客户端</li><li>iOS：Shadowrocket、Quantumult X、Stash、Surge</li><li>建议关闭「绕过中国大陆」冲突规则后再测速</li></ul></div><div><h3>路由与网关</h3><ul class=\"plain\"><li>OpenWrt / iStoreOS 可通过订阅转换接入</li><li>团队版支持按网段定制分流</li><li>常驻网关会计入在线设备数</li></ul></div><div><h3>订阅格式</h3><ul class=\"plain\"><li>通用 Clash YAML 订阅</li><li>SIP008 / SIP002 供部分 iOS 客户端</li><li>二维码仅用于同局域网扫码，勿公开发布</li></ul></div></div><p>官方网站仅提供订阅与说明，不在页面内嵌安装文件。完成下载后回到本页「操作说明」第五步验证连通。若企业需要固定出口 IP 或专线对接，请使用团队版并联系客户经理排期。</p><h2 id=\"network\">线路、节点与性能说明</h2><p>极兔云节点池覆盖香港、日本东京、新加坡、台湾、美国西岸与部分欧洲中转。普通线路适合网页与轻量下载；旗舰版增加 IPLC 游戏优化与原生流媒体出口；团队版在晚高峰保留更高带宽余量。</p><p>延迟因运营商与时段而异，一般晚间国际出口会上升。建议在客户端按延迟排序，避免手动锁定单一节点。下载类任务可选用带宽标注更高的中转，实时应用优先短距线路。极兔云侧会对异常滥用限速以保障共享池公平，这与套餐标称流量是两套机制。</p><p>DNS 建议使用客户端内置的加密解析，减少污染。若仅需加速部分应用，使用规则分流而不是全局，可降低国内站点绕路带来的卡顿。</p><h2 id=\"faq\">常见问题</h2><details><summary>极兔云是什么？和普通 VPN 有何不同？</summary><p>极兔云是提供机场订阅的网络加速服务：你在官网开通套餐后获得订阅链接，导入 Clash、Shadowrocket 等客户端即可选择节点。相比单一出口的传统 VPN，机场可按规则分流、按地区切换，并针对流媒体与游戏做线路分层。本页套餐对比写明了流量、设备与线路差异。</p></details><details><summary>如何从官网完成客户端下载并导入订阅？</summary><p>先在套餐页开通，再进入控制台复制订阅。桌面与安卓使用 Clash Meta / sing-box 生态客户端，iOS 使用商店内的 Shadowrocket 或 Quantumult X。将订阅粘贴到「订阅 / 配置」并更新。详细顺序见本页操作说明。极兔云不提供来路不明的破解安装包。</p></details><details><summary>基础版、旗舰版、团队版该怎么选？</summary><p>个人轻度浏览选基础版（100GB / 3 设备 / 基础流媒体）。需要原生流媒体、游戏 IPLC 与优先工单选旗舰版（300GB / 5 设备）。工作室、实验室或多路由环境选团队版（1000GB / 20 设备 / 定制路由与客户经理）。年付均为 10 个月价格。</p></details><details><summary>支持哪些使用场景？流量不够或设备超限怎么办？</summary><p>覆盖跨境办公、资料检索、流媒体、游戏与多设备共享。流量按自然月重置，用尽后需等待下月或升级套餐。同时在线超过套餐台数时，新设备无法握手，关掉闲置终端即可。团队版适合把路由器算作长期在线的场景。</p></details><details><summary>节点连不上或流媒体仍显示地区限制如何处理？</summary><p>先更新订阅、校准系统时间、更换同区域节点，并确认开启了 TUN 或系统代理。流媒体请使用标注原生解锁的节点，关闭浏览器的地区插件。游戏请走 IPLC 并避免全局代理国内登录器。仍失败时，旗舰版与团队版可通过工单提交错误截图与节点名称。</p></details><details><summary>极兔云官方网站如何确认，会不会有假下载页？</summary><p>请认准本站品牌名「极兔云」以及控制台内生成的专属订阅域名。不要在社交平台下载可执行文件，也不要扫描来源不明的二维码。本页所有跳转均为页内锚点，客户端请从系统应用商店或开发者公示渠道获取。</p></details><h2>服务边界与使用建议</h2><p>请遵守所在地与目标站点的使用条款，勿将加速器用于未授权的扫描、攻击或资源盗用。共享账号导致的设备挤占由账户持有人自行调节。线路质量受上游海缆与晚高峰影响，极兔云通过多入口与故障切换降低中断时间，但不承诺某一时刻的绝对带宽。</p><p>建议将本页加入浏览器收藏，后续对照「套餐对比」与「操作说明」即可完成续费或换端。广告与友情链接仅为信息导航，不构成对第三方服务的保证。</p><section class=\"adbox\" id=\"ads\"><h3>页面公告位</h3><p>企业跨境组网、固定出口与多办公区分流，可了解团队版专属客户经理服务。个人用户如需把手机热点分享给临时设备，请确认未超过同时在线上限。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2 id=\"sitemap\">网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#network\">线路与性能</a></li><li><a href=\"#faq\">常见问题</a></li></ul><h3>友情链接</h3><p class=\"friends\"><a href=\"#\">网络诊断手册</a><a href=\"#\">分流规则说明</a><a href=\"#\">DNS 加密入门</a><a href=\"#\">OpenWrt 订阅指引</a><a href=\"#\">流媒体区域对照</a></p><p>© 极兔云官方网站 · 高速 VPN 加速器与机场订阅 · <a href=\"#download\">官方下载说明</a></p></div></footer>",
+          "hash": "b641e3db1f6a0293085159219887c38f7c4f905d2edd190ec5a5b712cf8e13dd",
+          "seo": {
+            "title": "极兔云官方网站 - VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "极兔云,极兔云官网,极兔云VPN,极兔云机场,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "极兔云提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，可在官网对比套餐并按步骤完成接入。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aboea.cn",
+    "host": "p-438a04c8d9.aboea.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "aboea.cn",
+      "url": "https://aboea.cn/",
+      "label": "MGNB",
+      "apex": "aboea.cn",
+      "kind": null,
+      "identity": "nqbpeguetu/page-dbcc5f02272882627062a275"
+    },
+    {
+      "host": "timvodu.cn",
+      "url": "https://timvodu.cn/",
+      "label": "极兔云",
+      "apex": "timvodu.cn",
+      "kind": null,
+      "identity": "vueukyavdu/page-ccb28a131462d913887b1a9c"
+    },
+    {
+      "host": "uzzlibp.cn",
+      "url": "https://uzzlibp.cn/",
+      "label": "极兔云",
+      "apex": "uzzlibp.cn",
+      "kind": null,
+      "identity": "wsjegvw/page-27d107563e6ad8c105e0eb71"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f472499492b01783a8656d0490357f28b8a8bc93a9cbfb0ae41513773d582f1f",
+    "sitemap.xml": "a4966406bee71c2ac925543b3ce19b1e6857d2d7298d72005385fd98c321c2de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c3b4cac1e472af6751bb98dca03f57e451f2948824dff0c36a46f04baada82fb",
+    "robots.txt": "52fbc536d22d7183f5c7d7bc30a15a16aebfbad6dfa3e48c37eb92abf8bdad11",
+    "cbb2c3a9676c3adf8905120bc5748757.txt": "d1e598aa7b00e9af1c9aa635a13a156bc120c2f0543dcfe96edfc18029546d48"
+  },
+  "revision": "11d315f19e5a034c18e4d09ed75e05b7342cbbdf5009c5db50b0a61641bf95e0"
+}
